@@ -51,6 +51,9 @@ You can view the project on GitHub Pages at the following link:
 
 
 https://gunelq.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+
+
+
 https://gunelq.github.io/leaflet-challenge/Leaflet-Part-2/index.html
 
 
