@@ -48,8 +48,7 @@ Output: Contained images and videos about the map visualizations from part 1 and
 Free Static Page
 You can view the project on GitHub Pages at the following link:
 
-Leaflet-Part-1: https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
-Leaflet-Part-2: https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
+
 References
 Dataset created by the United States Geological Survey
 © 2024 edX Boot Camps LLC
